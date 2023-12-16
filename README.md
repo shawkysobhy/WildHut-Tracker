@@ -6,6 +6,9 @@ WildHut Tracker is a robust application designed to streamline the process of ch
 
 ## Features
 
+![Pizza Menu](/images/wildHutTracker.png)
+
+
 ### 1. Check-In and Check-Out
 
 - Efficiently record the entry and exit times of guests.
