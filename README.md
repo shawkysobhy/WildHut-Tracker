@@ -6,8 +6,9 @@ WildHut Tracker is a robust application designed to streamline the process of ch
 
 ## Features
 
-![Pizza Menu](/images/wildHutTracker.png)
+![booking screenshot](/images/wildHuttracker.png)
 
+## Note "app features not finished yet"
 
 ### 1. Check-In and Check-Out
 
